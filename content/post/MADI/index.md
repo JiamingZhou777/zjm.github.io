@@ -1,4 +1,0 @@
----
-MADI
----
-This is MADI
