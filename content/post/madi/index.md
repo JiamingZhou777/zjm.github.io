@@ -1,6 +1,10 @@
 ---
 title: 🎉 One paper was accepted by ICASSP 2023
-summary: "<p style="text-align: justify;"> In this paper, we propose a novel UDA approach for ASR via inter-domain MAtching and intra-domain DIscrimination (MADI), which improves the model transferability by fine-grained inter-domain matching and discriminability by intra-domain contrastive discrimination simultaneously.</p>"
+
+<div style="text-align: center;">
+summary: "In this paper, we propose a novel UDA approach for ASR via inter-domain MAtching and intra-domain DIscrimination (MADI), which improves the model transferability by fine-grained inter-domain matching and discriminability by intra-domain contrastive discrimination simultaneously.</p>"
+<\div>
+
 date: 2023-02-16
 
 # Featured image
