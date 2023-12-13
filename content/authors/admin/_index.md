@@ -31,12 +31,12 @@ bio: My research interests include automatic speech recognition and domain adapt
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'zhoujiaming@mail.nankai.edu.cn'
+    url: 'mailto:zhoujiaming@mail.nankai.edu.cn'
     label: E-mail Me  
-  - icon: google-scholar
+  - icon: brands/google-scholar
     url: 'https://scholar.google.com/citations?user=r-wK8jMAAAAJ&hl=zh-CN'
     label: My Google Scholar
-  - icon: github
+  - icon: brands/github
     url: 'https://github.com/JiamingZhou777'
     label: My Github
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
