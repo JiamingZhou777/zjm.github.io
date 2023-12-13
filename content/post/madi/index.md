@@ -17,6 +17,7 @@ tags:
 ---
 
 👋 MADI: Inter-Domain Matching and Intra-Domain Discrimination for Cross-Domain Speech Recognition
+**Jiaming Zhou**; Shiwan Zhao; Ning Jiang; Guoqing Zhao; Yong Qin
 
 ## Overview
 

@@ -9,7 +9,7 @@ sections:
       username: admin
     design:
       biography:
-        style: 'text-align: justify; font-size: 0.4em;'
+        style: 'text-align: justify; text-justify: inter-word; font-size: 0.4em;'
   - block: collection
     content:
       filters:
