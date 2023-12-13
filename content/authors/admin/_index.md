@@ -6,7 +6,7 @@ title: 周家名
 name_pronunciation: Jiaming Zhou
 
 # Full name (for SEO)
-first_name: Jiaming
+first_name: Jiaming   
 last_name: Zhou
 
 # Status emoji
