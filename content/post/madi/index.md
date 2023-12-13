@@ -1,6 +1,6 @@
 ---
 title: 🎉 One paper was accepted by ICASSP 2023
-summary: In this paper, we propose a novel UDA approach for ASR via inter-domain MAtching and intra-domain DIscrimination (MADI), which improves the model transferability by fine-grained inter-domain matching and discriminability by intra-domain contrastive discrimination simultaneously.
+summary: <p style="text-align: justify;">In this paper, we propose a novel UDA approach for ASR via inter-domain MAtching and intra-domain DIscrimination (MADI), which improves the model transferability by fine-grained inter-domain matching and discriminability by intra-domain contrastive discrimination simultaneously.</p>
 date: 2023-02-16
 
 # Featured image
@@ -17,6 +17,7 @@ tags:
 ---
 
 👋 MADI: Inter-Domain Matching and Intra-Domain Discrimination for Cross-Domain Speech Recognition
+
 **Jiaming Zhou**; Shiwan Zhao; Ning Jiang; Guoqing Zhao; Yong Qin
 
 ## Overview
