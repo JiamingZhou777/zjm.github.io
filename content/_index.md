@@ -15,4 +15,7 @@ sections:
       filters:
         folders:
           - post
+    design:
+      biography:
+        style: 'text-align: justify; font-size: 0.8em;'
 ---
