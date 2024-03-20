@@ -1,6 +1,6 @@
 ---
-title: 🎉 One paper was accepted by ICASSP 2024, the code is comming soon
-summary: This paper presents **$k$NN-CTC**, a novel approach that overcomes these challenges by leveraging Connectionist Temporal Classification (CTC) pseudo labels to establish frame-level audio-text key-value pairs, circumventing the need for precise ground truth alignments.
+title: 🎉 One paper was accepted by ICASSP 2024, the code is available now!
+summary: This paper presents kNN-CTC, a novel approach that overcomes these challenges by leveraging Connectionist Temporal Classification (CTC) pseudo labels to establish frame-level audio-text key-value pairs, circumventing the need for precise ground truth alignments.
 date: 2023-12-13
 
 # Featured image
@@ -29,12 +29,21 @@ By incorporating a $k$-nearest neighbors retrieval mechanism into pre-trained CT
 ![avatar](./overview.png)
 
 
-- 👉 The full version of this paper is comming soon
-- 👉 The code is comming soon
+- 👉 The full version of this paper is at https://ieeexplore.ieee.org/document/10447075
+- 👉 The code is available at https://github.com/NKU-HLT/KNN-CTC
 - 💬 Welcome to contact me, my email is <zhoujiaming@mail.nankai.edu.cn>
 - 📚 Cite me
 ```
-comming soon
+@INPROCEEDINGS{10447075,
+  author={Zhou, Jiaming and Zhao, Shiwan and Liu, Yaqi and Zeng, Wenjia and Chen, Yong and Qin, Yong},
+  booktitle={ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={KNN-CTC: Enhancing ASR via Retrieval of CTC Pseudo Labels}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={11006-11010},
+  keywords={Codes;Signal processing;Natural language processing;Acoustics;Speech processing;Task analysis;Automatic speech recognition;speech recognition;CTC;retrieval-augmented method;datastore construction},
+  doi={10.1109/ICASSP48485.2024.10447075}}
 ```
 
 
