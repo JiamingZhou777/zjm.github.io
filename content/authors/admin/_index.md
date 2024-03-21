@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD student
+role: master student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -51,6 +51,4 @@ profiles:
 highlight_name: true
 ---
 
-I am a PhD student of College of Computer Science, Nankai University, under the supervision of Prof. Yong Qin. 
-I received the B.E. degree from Dalian University of Technology (DUT) in 2022. 
-My research interests include automatic speech recognition and domain adaptation.
+I am currently a master's student at the College of Computer Science, Nankai University, under the guidance of Professor Yong Qin since 2022. I am poised to embark on a Ph.D. journey, transitioning seamlessly from my master's program in September 2024. Prior to this, I earned my B.E. degree from Dalian University of Technology (DUT) in 2022. My research interests include automatic speech recognition and domain adaptation.
